@@ -1,0 +1,182 @@
+[INFO] 16:09:26:771 prueba/(2002:2002): Soy un log
+[INFO] 16:34:45:070 prueba/(4681:4681): Soy un log
+[INFO] 16:35:21:515 prueba/(4766:4766): Soy un log
+[INFO] 16:41:30:068 prueba/(5344:5344): Soy un log
+[INFO] 16:42:29:111 prueba/(5458:5458): Soy un log
+[INFO] 16:42:29:112 prueba/(5458:5458): prueba2
+[INFO] 16:48:20:452 prueba/(6059:6059): Soy un log
+[INFO] 16:48:20:453 prueba/(6059:6059): prueba2
+[INFO] 16:50:51:160 prueba/(6126:6126): Soy un log
+[INFO] 16:51:06:661 prueba/(6126:6126): prueba2
+[INFO] 16:52:14:336 prueba/(6391:6391): Soy un log
+[INFO] 16:52:15:050 prueba/(6391:6391): prueba2
+[INFO] 16:53:22:294 prueba/(6556:6556): Soy un log
+[INFO] 16:53:22:778 prueba/(6556:6556): prueba2
+[INFO] 16:59:25:721 prueba/(7128:7128): Soy un log
+[INFO] 16:59:25:721 prueba/(7128:7128): prueba2
+[INFO] 16:59:52:927 prueba/(7178:7178): Soy un log
+[INFO] 16:59:53:333 prueba/(7178:7178): prueba2
+[INFO] 17:09:51:700 prueba/(7443:7443): Soy un log
+[INFO] 17:09:55:132 prueba/(7443:7443): prueba2
+[INFO] 17:16:10:230 prueba/(8954:8954): Soy un log
+[INFO] 17:16:10:232 prueba/(8954:8954): prueba2
+[INFO] 17:18:58:260 prueba/(9213:9213): Soy un log
+[INFO] 17:18:58:261 prueba/(9213:9213): prueba2
+[INFO] 17:19:58:887 prueba/(9324:9324): Soy un log
+[INFO] 17:19:58:888 prueba/(9324:9324): prueba2
+[INFO] 17:26:39:369 prueba/(9798:9798): Soy un log
+[INFO] 17:26:39:369 prueba/(9798:9798): prueba2
+[INFO] 17:28:08:366 prueba/(9903:9903): Soy un log
+[INFO] 17:28:08:366 prueba/(9903:9903): prueba2
+[INFO] 17:28:29:423 prueba/(9956:9956): Soy un log
+[INFO] 17:28:29:424 prueba/(9956:9956): prueba2
+[INFO] 17:28:42:064 prueba/(10002:10002): Soy un log
+[INFO] 17:28:42:065 prueba/(10002:10002): prueba2
+[INFO] 17:29:08:771 prueba/(10058:10058): Soy un log
+[INFO] 17:29:08:771 prueba/(10058:10058): prueba2
+[INFO] 17:42:58:372 prueba/(11124:11124): Soy un log
+[INFO] 17:42:58:391 prueba/(11124:11124): prueba2
+[INFO] 17:42:58:406 prueba/(11124:11124): valor
+[INFO] 17:42:58:406 prueba/(11124:11124): prueba2
+[INFO] 17:48:03:173 prueba/(11474:11474): Soy un log
+[INFO] 17:48:03:175 prueba/(11474:11474): prueba2
+[INFO] 17:48:03:177 prueba/(11474:11474): valor
+[INFO] 17:48:03:177 prueba/(11474:11474): prueba2
+[INFO] 17:48:12:153 prueba/(11474:11474): a ver
+[INFO] 07:37:30:349 prueba/(22582:22582): Soy un log
+[INFO] 07:37:30:365 prueba/(22582:22582): prueba2
+[INFO] 07:37:30:367 prueba/(22582:22582): valor
+[INFO] 07:37:30:368 prueba/(22582:22582): prueba2
+[INFO] 07:37:32:837 prueba/(22582:22582): hola
+[INFO] 08:10:17:995 gral_logger/(24128:24128): Soy un log
+[INFO] 08:10:18:016 gral_logger/(24128:24128): valor
+[INFO] 08:10:18:016 gral_logger/(24128:24128): prueba2
+[INFO] 08:10:23:177 gral_logger/(24128:24128): lklñlñ
+[INFO] 08:10:23:178 gral_logger/(24128:24128): valor
+[INFO] 08:10:23:178 gral_logger/(24128:24128): 127.0.0.1
+[INFO] 08:10:23:178 gral_logger/(24128:24128): 4444
+[INFO] 08:50:08:821 gral_logger/(26383:26383): Soy un log
+[INFO] 08:50:15:065 gral_logger/(26383:26383): valor
+[INFO] 08:50:17:201 gral_logger/(26383:26383): prueba2
+[INFO] 08:50:21:844 gral_logger/(26383:26383): alo
+[INFO] 08:50:35:426 gral_logger/(26383:26383): valor
+[INFO] 08:50:37:728 gral_logger/(26383:26383): 127.0.0.1
+[INFO] 08:50:40:023 gral_logger/(26383:26383): 4444
+[INFO] 08:53:21:887 gral_logger/(26781:26781): Soy un log
+[INFO] 08:53:24:044 gral_logger/(26781:26781): valor
+[INFO] 08:53:24:409 gral_logger/(26781:26781): prueba2
+[INFO] 08:53:28:201 gral_logger/(26781:26781): buenass
+[INFO] 08:53:34:577 gral_logger/(26781:26781): valor
+[INFO] 08:53:35:629 gral_logger/(26781:26781): 127.0.0.1
+[INFO] 08:53:37:388 gral_logger/(26781:26781): 4444
+[INFO] 08:55:42:871 gral_logger/(26958:26958): Soy un log
+[INFO] 08:55:45:435 gral_logger/(26958:26958): valor
+[INFO] 08:55:46:063 gral_logger/(26958:26958): prueba2
+[INFO] 08:55:50:135 gral_logger/(26958:26958): asdsa
+[INFO] 08:55:53:130 gral_logger/(26958:26958): valor
+[INFO] 08:55:54:201 gral_logger/(26958:26958): 127.0.0.1
+[INFO] 08:55:55:137 gral_logger/(26958:26958): 4444
+[INFO] 08:56:47:353 gral_logger/(27070:27070): Soy un log
+[INFO] 08:56:47:357 gral_logger/(27070:27070): valor
+[INFO] 08:56:47:358 gral_logger/(27070:27070): prueba2
+[INFO] 08:56:51:032 gral_logger/(27070:27070): buenas
+[INFO] 08:56:51:032 gral_logger/(27070:27070): valor
+[INFO] 08:56:51:032 gral_logger/(27070:27070): 127.0.0.1
+[INFO] 08:56:51:032 gral_logger/(27070:27070): 4444
+[INFO] 08:56:54:183 gral_logger/(27070:27070): c
+[INFO] 08:56:55:501 gral_logger/(27070:27070): a
+[INFO] 08:56:56:712 gral_logger/(27070:27070): h
+[INFO] 08:56:57:408 gral_logger/(27070:27070): re
+[INFO] 08:56:58:119 gral_logger/(27070:27070): 
+[INFO] 08:57:14:688 gral_logger/(27116:27116): Soy un log
+[INFO] 08:57:19:250 gral_logger/(27116:27116): valor
+[INFO] 08:57:19:781 gral_logger/(27116:27116): prueba2
+[INFO] 08:57:23:072 gral_logger/(27116:27116): ahre
+[INFO] 08:57:26:521 gral_logger/(27116:27116): valor
+[INFO] 08:57:27:364 gral_logger/(27116:27116): 127.0.0.1
+[INFO] 08:57:28:248 gral_logger/(27116:27116): 4444
+[INFO] 08:57:32:124 gral_logger/(27116:27116): buenas
+[INFO] 08:57:34:062 gral_logger/(27116:27116): tardes
+[INFO] 08:57:34:959 gral_logger/(27116:27116): xd
+[INFO] 08:57:44:414 gral_logger/(27116:27116): 
+[INFO] 20:37:49:270 gral_logger/(28263:28263): Soy un log
+[INFO] 20:37:49:304 gral_logger/(28263:28263): valor
+[INFO] 20:37:49:304 gral_logger/(28263:28263): prueba2
+[INFO] 20:39:11:318 gral_logger/(28263:28263): valorvalorvalor
+[INFO] 20:39:11:319 gral_logger/(28263:28263): valor
+[INFO] 20:39:11:319 gral_logger/(28263:28263): 127.0.0.1
+[INFO] 20:39:11:319 gral_logger/(28263:28263): 4444
+[INFO] 20:39:37:529 gral_logger/(28263:28263): cx
+[INFO] 20:39:48:123 gral_logger/(28263:28263): fdgdf
+[INFO] 20:42:53:661 gral_logger/(28580:28580): Soy un log
+[INFO] 20:42:53:664 gral_logger/(28580:28580): valor
+[INFO] 20:42:53:664 gral_logger/(28580:28580): prueba2
+[INFO] 20:42:58:887 gral_logger/(28580:28580): bcvbdfg
+[INFO] 20:42:58:888 gral_logger/(28580:28580): valor
+[INFO] 20:42:58:888 gral_logger/(28580:28580): 127.0.0.1
+[INFO] 20:42:58:888 gral_logger/(28580:28580): 4444
+[INFO] 20:43:01:731 gral_logger/(28580:28580): fdgdf
+[INFO] 20:43:03:477 gral_logger/(28580:28580): dfgdfg
+[INFO] 20:43:04:364 gral_logger/(28580:28580): dsfgsad
+[INFO] 21:06:56:947 gral_logger/(30930:30930): Soy un log
+[INFO] 21:07:01:396 gral_logger/(30930:30930): valor
+[INFO] 21:07:02:535 gral_logger/(30930:30930): prueba2
+[INFO] 21:07:35:207 gral_logger/(30930:30930): sadesad
+[INFO] 21:07:44:201 gral_logger/(30930:30930): valor
+[INFO] 21:07:46:782 gral_logger/(30930:30930): 127.0.0.1
+[INFO] 21:07:48:018 gral_logger/(30930:30930): 4444
+[INFO] 21:07:48:725 gral_logger/(30930:30930): sadsa
+[INFO] 21:07:52:358 gral_logger/(30930:30930): sdfsdfs
+[INFO] 21:07:54:223 gral_logger/(30930:30930): sdfsdfsd}
+[INFO] 21:07:55:877 gral_logger/(30930:30930): 
+[INFO] 21:08:47:260 gral_logger/(31093:31093): Soy un log
+[INFO] 21:08:47:262 gral_logger/(31093:31093): valor
+[INFO] 21:08:47:262 gral_logger/(31093:31093): prueba2
+[INFO] 21:08:59:341 gral_logger/(31093:31093): 
+[INFO] 21:08:59:341 gral_logger/(31093:31093): valor
+[INFO] 21:08:59:341 gral_logger/(31093:31093): 127.0.0.1
+[INFO] 21:08:59:342 gral_logger/(31093:31093): 4444
+[INFO] 21:09:00:400 gral_logger/(31093:31093): 
+[INFO] 21:09:01:093 gral_logger/(31093:31093): 
+[INFO] 21:09:49:700 gral_logger/(31159:31159): Soy un log
+[INFO] 21:09:49:701 gral_logger/(31159:31159): valor
+[INFO] 21:09:49:702 gral_logger/(31159:31159): prueba2
+[INFO] 21:09:52:842 gral_logger/(31159:31159): dsad
+[INFO] 21:09:52:842 gral_logger/(31159:31159): valor
+[INFO] 21:09:52:842 gral_logger/(31159:31159): 127.0.0.1
+[INFO] 21:09:52:843 gral_logger/(31159:31159): 4444
+[INFO] 21:09:54:866 gral_logger/(31159:31159): ass
+[INFO] 21:09:56:049 gral_logger/(31159:31159): 
+[INFO] 21:46:29:852 gral_logger/(6786:6786): valor
+[INFO] 21:46:32:672 gral_logger/(6786:6786): 127.0.0.1
+[INFO] 21:46:34:318 gral_logger/(6786:6786): 4444
+[INFO] 22:03:21:756 tp0/(9552:9552): El valor de la CLAVE es valor
+
+[INFO] 22:03:30:915 tp0/(9552:9552): sdfds
+[INFO] 22:03:33:442 tp0/(9552:9552): s
+[INFO] 22:03:33:985 tp0/(9552:9552): 
+[INFO] 22:04:56:460 tp0/(9952:9952): El valor de la CLAVE es valor
+
+[INFO] 22:04:58:959 tp0/(9952:9952): buenas
+[INFO] 22:05:00:414 tp0/(9952:9952): tardes
+[INFO] 22:05:00:870 tp0/(9952:9952): 
+[INFO] 22:06:07:822 tp0/(10111:10111): El valor de la CLAVE es valor
+
+[INFO] 22:06:11:084 tp0/(10111:10111): 
+[INFO] 22:06:14:825 tp0/(10111:10111): 
+[INFO] 22:08:23:254 tp0/(10400:10400): El valor de la CLAVE es valor
+
+[INFO] 22:08:26:745 tp0/(10400:10400): buenas
+[INFO] 22:08:27:809 tp0/(10400:10400): 
+[INFO] 22:09:06:565 tp0/(10481:10481): El valor de la CLAVE es valor
+
+[INFO] 22:09:09:625 tp0/(10481:10481): 
+[INFO] 22:09:13:159 tp0/(10481:10481): 
+[INFO] 22:17:49:656 tp0/(11521:11521): El valor de la CLAVE es valor
+
+[INFO] 22:17:51:869 tp0/(11521:11521): 
+[INFO] 22:17:53:570 tp0/(11521:11521): 
+[INFO] 22:19:31:608 tp0/(11728:11728): El valor de la CLAVE es valor
+
+[INFO] 22:19:35:507 tp0/(11728:11728): buenas
+[INFO] 22:19:36:986 tp0/(11728:11728): 

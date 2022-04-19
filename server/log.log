@@ -1,0 +1,40 @@
+[INFO] 20:37:15:410 Servidor/(28009:28009): Servidor listo para recibir al cliente
+[INFO] 21:09:17:828 Servidor/(31125:31125): Servidor listo para recibir al cliente
+[INFO] 21:40:41:969 Servidor/(5922:5922): Servidor listo para recibir al cliente
+[INFO] 21:46:36:136 Servidor/(5922:5922): Se conecto un cliente!
+[INFO] 21:46:39:083 Servidor/(5922:5922): Me llego el mensaje prueba
+[ERROR] 21:46:56:512 Servidor/(5922:5922): el cliente se desconecto. Terminando servidor
+[INFO] 22:02:18:411 Servidor/(9389:9389): Servidor listo para recibir al cliente
+[INFO] 22:03:33:986 Servidor/(9389:9389): Se conecto un cliente!
+[INFO] 22:03:33:986 Servidor/(9389:9389): Me llego el mensaje prueba
+[ERROR] 22:03:34:114 Servidor/(9389:9389): el cliente se desconecto. Terminando servidor
+[INFO] 22:04:54:684 Servidor/(9949:9949): Servidor listo para recibir al cliente
+[INFO] 22:05:00:870 Servidor/(9949:9949): Se conecto un cliente!
+[INFO] 22:05:00:871 Servidor/(9949:9949): Me llego el mensaje valor
+[ERROR] 22:05:01:004 Servidor/(9949:9949): el cliente se desconecto. Terminando servidor
+[INFO] 22:05:46:171 Servidor/(10078:10078): Servidor listo para recibir al cliente
+[INFO] 22:06:16:942 Servidor/(10078:10078): Se conecto un cliente!
+[INFO] 22:06:24:972 Servidor/(10078:10078): Me llego el mensaje valor
+[ERROR] 22:06:40:978 Servidor/(10078:10078): el cliente se desconecto. Terminando servidor
+[INFO] 22:08:17:136 Servidor/(10388:10388): Servidor listo para recibir al cliente
+[INFO] 22:08:27:809 Servidor/(10388:10388): Se conecto un cliente!
+[INFO] 22:08:27:810 Servidor/(10388:10388): Me llego el mensaje valor
+[ERROR] 22:08:27:945 Servidor/(10388:10388): el cliente se desconecto. Terminando servidor
+[INFO] 22:09:00:337 Servidor/(10477:10477): Servidor listo para recibir al cliente
+[INFO] 22:09:18:178 Servidor/(10477:10477): Se conecto un cliente!
+[INFO] 22:09:19:869 Servidor/(10477:10477): Me llego el mensaje valor
+[ERROR] 22:10:10:189 Servidor/(10477:10477): el cliente se desconecto. Terminando servidor
+[INFO] 22:17:32:478 Servidor/(11484:11484): Servidor listo para recibir al cliente
+[INFO] 22:17:54:809 Servidor/(11484:11484): Se conecto un cliente!
+[INFO] 22:17:56:722 Servidor/(11484:11484): Me llego el mensaje valor
+[ERROR] 22:19:25:273 Servidor/(11484:11484): el cliente se desconecto. Terminando servidor
+[INFO] 22:19:30:582 Servidor/(11726:11726): Servidor listo para recibir al cliente
+[INFO] 22:19:36:987 Servidor/(11726:11726): Se conecto un cliente!
+[INFO] 22:19:36:987 Servidor/(11726:11726): Me llego el mensaje valor
+[INFO] 22:19:46:831 Servidor/(11726:11726): Me llegaron los siguientes valores:
+
+[INFO] 22:19:46:831 Servidor/(11726:11726): a ver
+[INFO] 22:19:46:833 Servidor/(11726:11726): funca
+[INFO] 22:19:46:833 Servidor/(11726:11726): o no
+[INFO] 22:19:46:834 Servidor/(11726:11726): vemos
+[ERROR] 22:19:46:835 Servidor/(11726:11726): el cliente se desconecto. Terminando servidor
